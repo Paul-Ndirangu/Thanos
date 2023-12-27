@@ -4,6 +4,9 @@
 
 **Thanos** is an open-source project inspired by the iconic finger snap, granting you the power to seamlessly convert speech to text and text to speech. Imagine dictating notes, generating voice-overs, or controlling devices effortlessly, all with the magic of your vocal chords.
 
+## Resources
+[OpenAI Documentation](https://platform.openai.com/docs/guides/text-to-speech)
+
 **What can Thanos do?**
 
 * **Speech to Text:** 
