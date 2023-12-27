@@ -1,4 +1,4 @@
-# Thanos
+# Thanos Snap
 
 ## Thanos: Unleash the Power of Voice with a Snap
 
