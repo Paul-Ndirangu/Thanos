@@ -30,3 +30,12 @@ with sr. Microphone() as source2:
     
     # Listens for the user's input
     audio2 = r.listen(source2)
+    
+    # Using google to recognize audio
+    myText = r.recognize_google(audio2)
+    myText = myText.lower()
+    
+    print(f"Did you say: {myText}")
+    speech_to_text(myText)
+    
+    
