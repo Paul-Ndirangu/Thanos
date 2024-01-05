@@ -13,6 +13,7 @@ def root():
 
 
 # Function to convert text to speech.
+@app.post("/speech")
 def speech_to_text(speech):
     # Initialize the engine
     engine = t.init()
